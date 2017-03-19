@@ -1,2 +1,2 @@
 # mean2
-MEAN 2.0
+Application in MEAN 2.0 technology 
