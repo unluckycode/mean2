@@ -1,9 +1,9 @@
 # mean2
 Application in MEAN 2.0 technology.
 
-##How to use:
+# How to use:
 
-#Application:
+## Application:
 1. Navigate into the folder (in the command line/ terminal)
 2. Run:
 ```
@@ -21,7 +21,7 @@ npm start
 ```
 in a new command line/ terminal window => Keep this process running as well, it's your NodeJS server.
 
-#MongoDB:
+## MongoDB:
 1. Navigate into the /bin folder
 2. Run server
 ```
